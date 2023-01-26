@@ -1,0 +1,14 @@
+#1674751633
+touch file1 file4
+#1674751640
+git add*
+#1674751645
+git add
+#1674751654
+git add .
+#1674751666
+git init
+#1674751672
+git add.
+#1674751675
+git add
